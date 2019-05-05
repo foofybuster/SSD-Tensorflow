@@ -1,7 +1,10 @@
 # Directories.
 __pycache__/
 datasets/__pycache__/
-datasets/wood/*
+datasets/wood/set-2
+datasets/wood/set-3
+datasets/wood/set-4
+datasets/wood/set-5
 tfrecords/*
 log/*
 deployment/__pycache__/
