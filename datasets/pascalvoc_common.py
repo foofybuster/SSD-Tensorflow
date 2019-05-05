@@ -43,6 +43,7 @@ VOC_LABELS = {
     'sofa': (18, 'Indoor'),
     'train': (19, 'Vehicle'),
     'tvmonitor': (20, 'Indoor'),
+    'ignore': (999, 'Wood Log'),
 }
 
 

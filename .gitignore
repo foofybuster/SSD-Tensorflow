@@ -1,6 +1,9 @@
 # Directories.
 __pycache__/
 datasets/__pycache__/
+datasets/wood/*
+tfrecords/*
+log/*
 deployment/__pycache__/
 nets/__pycache__/
 preprocessing/__pycache__/
@@ -8,6 +11,7 @@ preprocessing/__pycache__/
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
 
+checkpoints/*
 checkpoints/ssd_300_vgg.ckpt.data-00000-of-00001
 checkpoints/ssd_300_vgg.ckpt.index
 checkpoints/models/*
